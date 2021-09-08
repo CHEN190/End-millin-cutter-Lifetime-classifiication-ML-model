@@ -1,4 +1,4 @@
-# End-millin-cutter-Lifetime-classifiication-ML-model
+# End-milling-cutter-Lifetime-classifiication-ML-model
 
 The life classification learning model uses the input quantitative feature report to predict the score weight of the results such as the tool life level through the model. 
 
